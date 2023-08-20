@@ -1,4 +1,4 @@
-function createEmployee(content:string) {
+function createEmployee(content: string) {
     return content;
 }
 
